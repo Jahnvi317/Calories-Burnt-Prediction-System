@@ -22,3 +22,7 @@ Deployment: Streamlit Cloud / Local Host
 
 📈 Model Performance
 Through feature engineering and correlation analysis, it was determined that Duration and Heart Rate are the most significant predictors of calorie burn. The model was validated using an 80-20 train-test split.
+
+> **Live Demo:** [Click here to try the interactive app!](https://calories-burnt-prediction-system-2arnh9gnyuirfpj84ycfe4.streamlit.app/)
+
+https://calories-burnt-prediction-system-2arnh9gnyuirfpj84ycfe4.streamlit.app/
