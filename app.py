@@ -4,7 +4,7 @@ import streamlit as st
 import pickle
 
 # Load the pre-trained model
-model = pickle.load(open(r'C:\Users\ASUS\OneDrive\Desktop\ML\calories_model.sav', 'rb'))
+model = pickle.load(open('calories_model.sav', 'rb'))
 #set the page
 st.set_page_config(page_title='Calories Burned Predictor',layout='centered')
 st.title('Calories Burned Prediction App')
